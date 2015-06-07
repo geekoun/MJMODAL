@@ -1,19 +1,19 @@
 MJMODAL
 ===========
+<p>MJMODAL is a simple modal in pur javascript &amp; CSS3</p>
 
-CALL PLUGIN IN HTML
+<h2>CALL PLUGIN IN HTML</h2>
 ___________________________________
 			
-<!-- SCRIPT -->
-<script type="text/javascript" src="MJMODAL.js"></script>
+<pre>
+	<!-- SCRIPT -->
+	<script type="text/javascript" src="MJMODAL.js"></script>
+</pre>
 
-You can change the params in the file mjmodal.js => variables
+<p>You can change the params in the file mjmodal.js => variables</p>
 
 
-CHANGE STYLE MODAL
+<h2>CHANGE STYLE MODAL</h2>
 ___________________________________
 	
-Change style modal in the file mjmodal.css
-=======
-# MJMODAL
-MJMODAL is a simple modal in pur javascript &amp; CSS3
+<p>Change style modal in the file mjmodal.css</p>
