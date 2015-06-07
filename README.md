@@ -15,18 +15,18 @@ ___________________________________
 <p>Params : </p>
 
 <ul>
-	<li>Tranlate3D CSS, 3 params :
+	<li>Tranlate3D CSS, 3 params (by default) :
 		<ul>
-			<li>var x => <strong>0</strong> (by default)</li>
-			<li>var y => <strong>'-100%'</strong> (by default)</li>
-			<li>var z => <strong>0</strong> (by default)</li>
+			<li>var x => <strong>0</strong></li>
+			<li>var y => <strong>'-100%'</strong></li>
+			<li>var z => <strong>0</strong></li>
 		</ul>
 	</li>
-	<li>Transition CSS, 3 params :
+	<li>Transition CSS, 3 params (by default) :
 		<ul>
-			<li>var type => <strong>0</strong> (by default)</li>
-			<li>var duration => <strong>'-100%'</strong> (by default)</li>
-			<li>var effect => <strong>0</strong> (by default)</li>
+			<li>var type => <strong>0</strong></li>
+			<li>var duration => <strong>'-100%'</strong></li>
+			<li>var effect => <strong>0</strong></li>
 		</ul>
 	</li>
 </ul>
