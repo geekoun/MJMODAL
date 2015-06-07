@@ -24,9 +24,9 @@ ___________________________________
 	</li>
 	<li>Transition CSS, 3 params :
 		<ul>
-			<li>var x => <strong>0</strong> (by default)</li>
-			<li>var y => <strong>'-100%'</strong> (by default)</li>
-			<li>var z => <strong>0</strong> (by default)</li>
+			<li>var type => <strong>0</strong> (by default)</li>
+			<li>var duration => <strong>'-100%'</strong> (by default)</li>
+			<li>var effect => <strong>0</strong> (by default)</li>
 		</ul>
 	</li>
 </ul>
