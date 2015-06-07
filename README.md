@@ -7,7 +7,7 @@ ___________________________________
 			
 <pre>
 	&lt;!-- SCRIPT --&gt;
-	&lt;script type="text/javascript" src="MJMODAL.js"&gt;&lt;/script&gt;
+	&lt;script type="text/javascript" src="mjmodal.js"&gt;&lt;/script&gt;
 </pre>
 
 <p>You can change the params in the file mjmodal.js => params</p>
@@ -17,16 +17,17 @@ ___________________________________
 <ul>
 	<li>Tranlate3D CSS, 3 params (by default) :
 		<ul>
-			<li>var x => <strong>0</strong></li>
-			<li>var y => <strong>'-100%'</strong></li>
-			<li>var z => <strong>0</strong></li>
+			<li>var <strong>x</strong> => <i>0</i></li>
+			<li>var <strong>y</strong> => <i>'-100%'</i></li>
+			<li>var <strong>z</strong> => <i>0</i></li>
 		</ul>
 	</li>
+	<li><br /></li>
 	<li>Transition CSS, 3 params (by default) :
 		<ul>
-			<li>var type => <strong>0</strong></li>
-			<li>var duration => <strong>'-100%'</strong></li>
-			<li>var effect => <strong>0</strong></li>
+			<li>var <strong>type</strong> => <i>0</i></li>
+			<li>var <strong>duration</strong> => <i>'-100%'</i></li>
+			<li>var <strong>effect</strong> => <i>0</i></li>
 		</ul>
 	</li>
 </ul>
