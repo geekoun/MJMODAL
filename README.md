@@ -21,16 +21,16 @@ ___________________________________
 	<li>Tranlate3D CSS, 3 params (by default) :
 		<ul>
 			<li>var <strong>x</strong> => <i>0</i></li>
-			<li>var <strong>y</strong> => <i>'-100%'</i></li>
+			<li>var <strong>y</strong> => <i>'-110%'</i></li>
 			<li>var <strong>z</strong> => <i>0</i></li>
 		</ul>
 	</li>
 	<li><br /></li>
 	<li>Transition CSS, 3 params (by default) :
 		<ul>
-			<li>var <strong>type</strong> => <i>0</i></li>
-			<li>var <strong>duration</strong> => <i>'-100%'</i></li>
-			<li>var <strong>effect</strong> => <i>0</i></li>
+			<li>var <strong>type</strong> => <i>all</i></li>
+			<li>var <strong>duration</strong> => <i>.2s</i></li>
+			<li>var <strong>effect</strong> => <i>ease-in-out</i></li>
 		</ul>
 	</li>
 </ul>
