@@ -6,8 +6,8 @@ MJMODAL
 ___________________________________
 			
 <pre>
-	<!-- SCRIPT -->
-	<script type="text/javascript" src="MJMODAL.js"></script>
+	&lt;!-- SCRIPT --&gt;
+	&lt;script type="text/javascript" src="MJMODAL.js"&gt;&lt;/script&gt;
 </pre>
 
 <p>You can change the params in the file mjmodal.js => variables</p>
