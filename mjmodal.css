@@ -1,6 +1,6 @@
 /*
 NAME : MJMODAL
-DESCRIPTION : MJMODAL is a simple modal in pur javascript & CSS3
+DESCRIPTION : MJMODAL is a simple modal in pure javascript & CSS3
 AUTHOR : MORGAN JOURDIN
 VERSION : 2.0
 */
