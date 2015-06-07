@@ -37,3 +37,8 @@ ___________________________________
 ___________________________________
 	
 <p>Change style modal in the file mjmodal.css</p>
+
+<h2>OTHER INFOS</h2>
+___________________________________
+	
+<p><a href="https://cdn.rawgit.com/mccray/MJMODAL/master/index.html" title="See a exemple">See a exemple</a></p>
