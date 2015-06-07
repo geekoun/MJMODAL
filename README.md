@@ -1,8 +1,8 @@
 MJMODAL
 ===========
 <p>
-	MJMODAL is a simple modal in pure javascript &amp; CSS3. It's ultra speed because it does not use a js library. It needs just js & css3.<br />
-	<strong>Attention !</strong> : This little plugin need a small level integration.
+	MJMODAL is a simple modal in pure javascript &amp; CSS3. It's ultra speed because it does not use a js library. It needs just js & css3.<br /><br />
+	<strong>Attention ! : This little plugin need a small level integration.</strong>
 </p>
 
 <h2>CALL PLUGIN IN HTML</h2>
