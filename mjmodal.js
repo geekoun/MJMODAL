@@ -38,7 +38,7 @@ function css3 (arrayTab, styl,var1, var2, var3) {
 window.onload = function() {
 
 	//VAR
-	var x = 0, y = '-100%', z = 0,
+	var x = 0, y = '-110%', z = 0,
 		type = 'all', duration = '.2s', effect = 'ease-in-out'
 
 	var transforms = {
@@ -71,7 +71,7 @@ window.onload = function() {
 
     btnClose.addEventListener( 'click', function() {
     	if(modal.hasClass('modalOn')) {
-	    	css3 (transforms, 'translate3d', 0, '-100%', 0);
+	    	css3 (transforms, 'translate3d', 0, '-110%', 0);
 	    	modal.classList.remove('modalOn');
 	    }
     }, false);
