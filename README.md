@@ -1,6 +1,9 @@
 MJMODAL
 ===========
-<p>MJMODAL is a simple modal in pur javascript &amp; CSS3</p>
+<p>
+	MJMODAL is a simple modal in pur javascript &amp; CSS3 <br />
+	<strong>Attention !</strong> : This little plugin need a small level integration.
+</p>
 
 <h2>CALL PLUGIN IN HTML</h2>
 ___________________________________
@@ -32,6 +35,13 @@ ___________________________________
 	</li>
 </ul>
 
+<h2>ADD HTML DOM</h2>
+<pre>
+	&lt;div id="mjp"&gt;
+	&lt;/div&gt;
+</pre>
+
+<p>You can to change the ID but it will change the ID in the file mjmodal.js. It's a global variable ;-)</p>
 
 <h2>CHANGE STYLE MODAL</h2>
 ___________________________________
