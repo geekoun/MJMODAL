@@ -52,3 +52,4 @@ ___________________________________
 ___________________________________
 	
 <p><a href="https://rawgit.com/mccray/MJMODAL/master/index.html" title="See a exemple" targe="_blank">See a exemple</a></p>
+<p>You can see other exemple with bounce effect in the folder : MJMODAL_ext/ or see a link exemple : <a href="https://rawgit.com/mccray/MJMODAL/master/MJMODAL_ext/index.html" target="_blank" title="Other exemple with bounce effect">here</a></p>
