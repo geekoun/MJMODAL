@@ -51,4 +51,4 @@ ___________________________________
 <h2>OTHER INFOS</h2>
 ___________________________________
 	
-<p><a href="https://cdn.rawgit.com/mccray/MJMODAL/master/index.html" title="See a exemple" targe="_blank">See a exemple</a></p>
+<p><a href="https://rawgit.com/mccray/MJMODAL/master/index.html" title="See a exemple" targe="_blank">See a exemple</a></p>
